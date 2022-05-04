@@ -8,9 +8,8 @@ Hi there, I am Const
 
 - ⚡ Periodically, in their repositories, I post projects in which I realize different tasks in my own way
 
-- 📫 How to reach me: job.look442@gmail.com
--                     tasknet.developer@gmail.com
--                     
+- 📫 How to reach me: job.look442@gmail.com  tasknet.developer@gmail.com                     
+                     
 <!--
 **tasknetdeveloper/tasknetdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
