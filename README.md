@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there, I am Const
+Hi there, I am Konstantin
 
 - 🔭 I like to create new software, and I whould like to find like-minded people 
 - 🌱 I am constantly learning new interesting things
