@@ -70,5 +70,5 @@ I have a great extensive experience in software engineering with stack:
 I hope to be of service to you.
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=tasknetdeveloper)
 
