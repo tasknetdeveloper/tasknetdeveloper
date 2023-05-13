@@ -1,5 +1,5 @@
 
-<h1 align="center">Good afternoon! I'm <b>I am Konstantin</b>
+<h1 align="center">Good afternoon! I'm <b> Konstantin</b>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am fullstack/backend .Net developer</h3>
 
