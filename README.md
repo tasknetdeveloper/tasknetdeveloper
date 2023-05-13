@@ -1,8 +1,15 @@
-
+<div 
+style="width=100%; height=100%; transform: perspective(75em) rotateX(18deg);
+  box-shadow: rgba(22, 31, 39, 0.42) 0px 60px 123px -25px,
+    rgba(19, 26, 32, 0.08) 0px 35px 75px -35px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: rgb(213, 220, 226) rgb(213, 220, 226) rgb(184, 194, 204);">
+ 
 <h1 align="center">Good afternoon! I'm <b> Konstantin</b>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am fullstack/backend .Net developer</h3>
-
+</div>
 <b>Always with me</b>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
