@@ -41,6 +41,7 @@
 <p>
 I have a great extensive experience in software engineering with stack:
 </p>
+<b>
 <ul>
  <li> C# (Microsoft .Net 5, .Net 6, .Net Framework 3.5 - 4.8)</li>
   <li>ASP.NET</li>
@@ -57,7 +58,7 @@ I have a great extensive experience in software engineering with stack:
   <li>Web API</li>
   <li>develop saas applications</li>
 </ul>
-
+</b>
 <p>
 I hope to be of service to you.
 </p>
