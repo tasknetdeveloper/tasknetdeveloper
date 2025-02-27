@@ -10,6 +10,7 @@ style="width=100%; height=100%; transform: perspective(75em) rotateX(18deg);
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am fullstack/backend .Net developer</h3>
 </div>
+<!--
 <b>Always with me</b>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -41,7 +42,7 @@ style="width=100%; height=100%; transform: perspective(75em) rotateX(18deg);
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+-->
 
 <p>
 I have a great extensive experience in software engineering with stack:
